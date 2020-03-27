@@ -183,8 +183,10 @@ Unityの画面構成は主に以下のようになっています。
 
 ![image18](img/img-18.png)
 
->## Challenge
+{% hint style='info' %}
+## Challenge
 スフィアのカラーを変更してみましょう。
+{% endhint %}
 
 <br />
 <br />
